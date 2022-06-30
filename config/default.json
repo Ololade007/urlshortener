@@ -1,0 +1,4 @@
+{
+    "mongoURI":"mongodb+srv://Sidehustle:Urlshort123@cluster0.nliqfrq.mongodb.net/?retryWrites=true&w=majority",
+    "baseUrl":"http://localhost:5000"
+}
